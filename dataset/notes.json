@@ -1,0 +1,29 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "API"
+    },
+    {
+      "id": 1,
+      "name": "Aplica\u00e7\u00e3o"
+    },
+    {
+      "id": 2,
+      "name": "Banco de Dados"
+    },
+    {
+      "id": 3,
+      "name": "Servidores"
+    },
+    {
+      "id": 4,
+      "name": "Usuarios"
+    }
+  ],
+  "info": {
+    "year": 2025,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}

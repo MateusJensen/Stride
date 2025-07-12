@@ -1,0 +1,5 @@
+API
+Aplicação
+Banco de Dados
+Servidores
+Usuarios

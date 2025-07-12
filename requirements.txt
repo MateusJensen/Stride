@@ -1,0 +1,4 @@
+streamlit~=1.46.1
+azure-cognitiveservices-vision-computervision
+python-dotenv 
+ultralytics~=8.3.163

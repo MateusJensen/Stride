@@ -1,0 +1,10 @@
+path: ../dataset
+train: images
+val: images
+
+names:
+  0: API
+  1: Aplicação
+  2: Banco de Dados
+  3: Servidores
+  4: Usuarios
