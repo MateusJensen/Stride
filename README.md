@@ -65,8 +65,8 @@ Automatizar a identificação de ameaças em diagramas de arquitetura através d
 ### 1. Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/stride-mvp.git
-cd stride-mvp
+git clone https://github.com/MateusJensen/Stride.git
+cd Stride
 ```
 
 ### 2. (Opcional) Crie e ative um ambiente virtual
