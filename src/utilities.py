@@ -137,3 +137,4 @@ def get_vulnerabilities(component, threats):
             details[threat] = vuln_data
 
     return details
+
